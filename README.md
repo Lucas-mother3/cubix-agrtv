@@ -2,9 +2,9 @@
 A IPTV channel powered by HLS and ffmpeg.
 
 ## Streams
-- [Main stream](https://agr-hls.damaj.gq)
-- [Neocities stream](https://agr-agr.damaj.gq)
-- [Dev stream (for testing)](https://agr-dev.damaj.gq)
+- [Main stream](https://agr-hls.damaj.gq/playlist.m3u8)
+- [Neocities stream](https://agr-agr.damaj.gq/playlist.m3u8)
+- [Dev stream (for testing)](https://agr-hls.dev.damaj.gq/playlist.m3u8)
 - [Alternate GitHub Stream (reworked)](https://lucas-mother3.github.io/agrtv/playlist.m3u8)
 
 ## Current programming
