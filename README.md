@@ -1,15 +1,8 @@
-# AGRtv 
-A IPTV channel powered by HLS and ffmpeg.
+# ~~AGRtv~~ Cubix (AGR block) 
+AGR block for Cubix, a new channel.
 
 ## Streams
-- [Main stream](https://agrtv-hls.damaj.gq/playlist.m3u8)
-- [Neocities stream](https://agrtv-agr.damaj.gq/playlist.m3u8)
-- [Dev stream (for testing)](https://agrtv-hls.dev.damaj.gq/playlist.m3u8)
-- [Alternate GitHub Stream (reworked)](https://lucas-mother3.github.io/agrtv/playlist.m3u8)
+- [Main stream](https://stream.cubix-assets.nl.eu.org/playlist.m3u8)
 
 ## Current programming
-- (OUTDATED) How to setup EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)
-- (Hopefully) The Most Accurate Nintendo Startup History
-- [bad YTP] Steve Ballmer tries to sell T-Bone's IBM PC
-- AGR Trailer
-- Welcome to the test broadcast!
+- Wii Donut
